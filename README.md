@@ -1,1 +1,1 @@
-# Laboration-L2
+readme fil för Laboration tillfälle 2. 
